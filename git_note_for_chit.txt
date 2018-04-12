@@ -1,0 +1,43 @@
+************
+* Lesson 1 *
+************
+
+git init 	-	init the git project
+
+
+working directory
+Make changes to files
+* Additions
+* Deletions
+* Modifications
+
+Staging Area
+File are ready for commit
+
+Repository
+Changes are saved to repository as a comment
+
+git status 	-	you can check the changes in working directory
+
+git add _filename_ 	-	you can add the file to staging area
+
+git reset HEAD		- 	move all files from staging area to working directory
+
+git reset HEAD	_filename_ - move the file from staging area to working directory
+
+git diff	-	you can see the changes between working directory and staging area
+
+git commit -m "your message"	-	commit is last step in our Git workflow. A commit permanently 										stores changes from the staging area inside the repository
+
+git log 	- 	you can check the commit with git log command
+
+git push origin master		- 	push the commit to your repository
+	
+************
+* Lesson 2 *
+************
+
+git add _filename1_ _filename1_ 	-	you can add the multiple files to staging area
+
+
+
